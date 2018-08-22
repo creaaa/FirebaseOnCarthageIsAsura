@@ -1,0 +1,46 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "5.6.0",
+  "iOS" : [
+    {
+      "name" : "gRPC-ProtoRPC",
+      "hash" : "aa91aef24a4d1bc15d7e85c12a746ba29b62aa5a2e115706b902f0cca9bf2413"
+    },
+    {
+      "name" : "gRPC-RxLibrary",
+      "hash" : "e3a0f945f6f58dce22bf1809d0b96b4969eb6af89835d1964c8e879456e67740"
+    },
+    {
+      "name" : "gRPC",
+      "hash" : "32a796aa7f79650e02bd28a6b2d37bd8bf59ff9b0fef6f96315d46b716de1384"
+    },
+    {
+      "name" : "leveldb-library",
+      "hash" : "46efb050ac066974dc037570610aac13017ed5d56e5b3c2b6c4f162c13555097"
+    },
+    {
+      "name" : "Protobuf",
+      "hash" : "e7509d1b2d3766190fc110bce4b313868df48d61d97c35167494877aed70e3af"
+    },
+    {
+      "name" : "BoringSSL",
+      "hash" : "118d90cf2144d195b3dc3c12aa0f137d24113bd9fbfc4caca9b0a41409486268"
+    },
+    {
+      "name" : "gRPC-Core",
+      "hash" : "046638b0facdc1a2712cec700acd8cb43c59846ec580de2598befdbacc8e99ae"
+    },
+    {
+      "name" : "FirebaseFirestore",
+      "hash" : "ab1e486d524455f9986f21b1b8fb738ef0b985111586ee473b614f2b11882562"
+    }
+  ]
+}
